@@ -2,4 +2,4 @@
 
 Un servidor de Websockets usando Node, Express y Socket.io
 
-Temas cubiertos en mi curso de Node de cero a experto
+el cual se encarga de despachar una cola emulando el sistema de tickets para turnos
